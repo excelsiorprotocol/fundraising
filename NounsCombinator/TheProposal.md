@@ -1,4 +1,4 @@
-# Full Proposal Loading Now... ⏲
+# Nouns Combinator Proposal #628 Loading Now... ⏲
 The various dependencies and resources required to properly dissect and fully digest this proposal are being compiled and linked in.
 
 We wish to make the process of grasping this very comprehensive proposal as straightforward and as delightful for you as possible. 
